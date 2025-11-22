@@ -1,0 +1,14 @@
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\bin\Debug\net6.0\IdentityCloningSim.exe
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\bin\Debug\net6.0\IdentityCloningSim.deps.json
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\bin\Debug\net6.0\IdentityCloningSim.runtimeconfig.json
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\bin\Debug\net6.0\IdentityCloningSim.dll
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\bin\Debug\net6.0\IdentityCloningSim.pdb
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.AssemblyInfoInputs.cache
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.AssemblyInfo.cs
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.csproj.CoreCompileInputs.cache
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.dll
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\refint\IdentityCloningSim.dll
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.pdb
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\IdentityCloningSim.genruntimeconfig.cache
+c:\Users\furka\Masaüstü\bsg\IdentityCloningSim\obj\Debug\net6.0\ref\IdentityCloningSim.dll
