@@ -19,10 +19,6 @@ Elektrikli araç şarj altyapılarında RFID veya benzeri kimlik doğrulama sist
 
 ## Teknik Mimari
 
-### Proje Yapısı
-
-Proje, .NET 6.0 platformu üzerinde geliştirilmiş bir konsol uygulamasıdır. Aşağıdaki ana bileşenlerden oluşmaktadır:
-
 #### 1. Models.cs
 Veri modellerini içerir:
 - **ChargePoint**: Şarj istasyonu bilgileri (ID, konum, kullanım durumu)
@@ -64,7 +60,6 @@ Ahmet İstanbul'da şarjdayken, kötü niyetli bir kişi Ahmet'in klonlanmış k
 ## Çalıştırma Talimatları
 
 ### Gereksinimler
-- .NET 6.0 SDK veya üzeri
 - Windows, Linux veya macOS işletim sistemi
 
 ### Kurulum ve Çalıştırma
